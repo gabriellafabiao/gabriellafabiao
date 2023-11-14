@@ -1,11 +1,11 @@
-## Olá! Me chamo Lucas Camilo Tymoschenko, Bem vindo(a) ao meu perfil!
+## Olá! Me chamo Gabriell Fabião, Bem vindo(a) ao meu perfil!
 
 
 
  <div>
    <a href="https://github.com/LuTymos">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuTymos&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuTymos&layout=compact&langs_count=6&theme=synthwave"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellafabiaos&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellafabiaos&layout=compact&langs_count=6&theme=synthwave"/>
 
 </div>
 <div style="display: inline_block">
