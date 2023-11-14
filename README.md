@@ -1,4 +1,4 @@
-## Olá! Me chamo Gabriell Fabião, Bem vindo(a) ao meu perfil!
+## Olá! Me chamo Gabriella Fabião, Bem vindo(a) ao meu perfil!
 
 
 
